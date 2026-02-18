@@ -91,10 +91,10 @@ To become a highly skilled engineer capable of designing innovative systems that
 
 ## 📫 Contact  
 
-- 📍 Tunisia  
-- 📧 (Add your professional email here)  
-- 💼 LinkedIn: (Add your LinkedIn link)  
+- 📧 mohamedmehdi.amrouni@polytechnicien.tn  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-mehdi-amrouni-65225b2ba/  
 
 ---
+
 
 ⭐ Always learning. Always building. Always improving.
